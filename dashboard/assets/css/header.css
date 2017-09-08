@@ -1,0 +1,37 @@
+/* NAVBAR STYLES */
+.navbar-brand {
+	background: url("../../../assets/images/ibm.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 70px;
+	height:50px;
+
+}
+
+.navbar-inverse {
+		background-color:#000;
+		border-color:#000;
+}
+
+.navbar {
+    border-radius: 0px !important;
+}
+
+#menu-toggle-2{
+
+	color: white;
+}
+.dashColor{
+	background-color: #000;
+}
+.vcenter {
+    padding-top:100px;
+}
+.panel-footer {
+	background-color:#337ab7;
+	border-top:0px;
+}
+.dash-link {
+	color:#fff;
+}

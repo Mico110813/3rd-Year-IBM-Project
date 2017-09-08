@@ -1,0 +1,141 @@
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+	margin-top: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #000;
+}
+
+#push {
+	height: 60px;
+}
+/* END STICKY FOOTER STYLES -------------------------- -------------------*/
+
+/* NAVBAR STYLES */
+.navbar-brand {
+	background: url("../images/ibm.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 70px;
+	height:50px;
+
+}
+.navbar-inverse {
+		background-color:#000;
+		border-color:#000;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #555;
+    background-color: #000;
+}
+/* add black background to search bar */
+.search-input {
+	background-color: #000;
+}
+/* add grey background to search button */
+.btn-colour {
+	background-color:#847f7f;
+}
+.btn-colour-login {
+	background-color: #000;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #292929;
+}
+.btn-primary:active, .btn-primary.active {
+    background: #292929;
+    box-shadow: none;
+}
+/* END NAVBAR STYLES */
+
+/* INDEX STYLES --------------------------------------------------------*/
+.banner {
+	background: url("../images/image1.jpg");
+	background-size: 200px;
+
+	background-repeat: no-repeat;
+}
+.jumbotron {
+	background-image: url('../images/background.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.jumbotron p {
+	font-size: 15px;
+}
+.mastfont {
+	font-size:9em;
+}
+
+.image_homepage {
+     width:100%;
+     height:auto;
+}
+
+/* END INDEX STYLES */
+
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+    font-size:12px
+}
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+}
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}

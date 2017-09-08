@@ -1,0 +1,28 @@
+[22-Mar-2016 17:06:11 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[13-Apr-2016 17:43:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[13-Apr-2016 18:14:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[14-Apr-2016 08:46:49 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[14-Apr-2016 16:57:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[15-Apr-2016 18:34:07 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[15-Apr-2016 23:51:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[16-Apr-2016 17:09:44 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[16-Apr-2016 17:10:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[16-Apr-2016 19:12:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[16-Apr-2016 22:05:48 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[16-Apr-2016 23:09:39 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[16-Apr-2016 23:16:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[17-Apr-2016 11:10:15 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[17-Apr-2016 14:11:41 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/tombuckletesting/public_html/projectkyaneos/php/logout.php on line 15
+[17-Apr-2016 14:11:47 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/tombuckletesting/public_html/projectkyaneos/php/logout.php on line 15
+[17-Apr-2016 14:11:48 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/tombuckletesting/public_html/projectkyaneos/php/logout.php on line 15
+[17-Apr-2016 14:21:40 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[17-Apr-2016 14:21:59 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[17-Apr-2016 19:51:44 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[18-Apr-2016 08:00:55 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[18-Apr-2016 16:19:36 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[18-Apr-2016 17:39:15 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[18-Apr-2016 22:10:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[19-Apr-2016 13:11:18 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[19-Apr-2016 13:13:44 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[19-Apr-2016 13:47:01 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
+[19-Apr-2016 16:21:12 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/tombuckletesting/public_html/projectkyaneos/php/processlogin.php on line 49
